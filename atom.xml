@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>MyXym-Blog</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-05-19T01:43:05.684Z</updated>
+  <updated>2025-05-19T09:10:38.824Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>MyXym</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工具推荐</title>
+    <link href="http://example.com/2025/05/19/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/"/>
+    <id>http://example.com/2025/05/19/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</id>
+    <published>2025-05-19T08:50:04.000Z</published>
+    <updated>2025-05-19T09:10:38.824Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="工具推荐"><a href="#工具推荐" class="headerlink" title="工具推荐"></a>工具推荐</h1><h2 id="搜索工具"><a href="#搜索工具" class="headerlink" title="搜索工具"></a>搜索工具</h2><h3 id="Everything"><a href="#Everything" class="headerlink" title="Everything"></a>Everything</h3><p>下载地址：<a href="https://www.voidtools.com/zh-cn/">voidtools</a></p><h3 id="AnyTxt-Search"><a href="#AnyTxt-Search" class="headerlink" title="AnyTxt Search"></a>AnyTxt Search</h3><p>下载地址：<a href="https://anytxt.net/download/">下载最佳免费桌面全文搜索工具 | Anytxt</a><br>tips:可以搜索文件内容</p><h2 id="压缩软件"><a href="#压缩软件" class="headerlink" title="压缩软件"></a>压缩软件</h2><h3 id="7Zip"><a href="#7Zip" class="headerlink" title="7Zip"></a>7Zip</h3><p>下载地址：<a href="https://sparanoid.com/lab/7z/">7-Zip 官方中文网站</a><br>tips：免费开源</p><h3 id="Bandizip"><a href="#Bandizip" class="headerlink" title="Bandizip"></a>Bandizip</h3><p>下载地址：<a href="https://www.bandisoft.com/bandizip/dl/">Bandizip - 下载 Bandizip 安装包</a></p><h2 id="截图工具"><a href="#截图工具" class="headerlink" title="截图工具"></a>截图工具</h2><h3 id="Snipaste"><a href="#Snipaste" class="headerlink" title="Snipaste"></a>Snipaste</h3><p>下载地址：<a href="https://zh.snipaste.com/">Snipaste - 截图 + 贴图</a></p><h3 id="PixPin"><a href="#PixPin" class="headerlink" title="PixPin"></a>PixPin</h3><p>下载地址：<a href="https://pixpin.cn/">PixPin - 随心截图，随意贴图</a></p><h3 id="ShareX"><a href="#ShareX" class="headerlink" title="ShareX"></a>ShareX</h3><p>下载地址：<a href="https://getsharex.com/downloads">Downloads - ShareX</a></p><h2 id="卸载软件"><a href="#卸载软件" class="headerlink" title="卸载软件"></a>卸载软件</h2><h3 id="Revo-Uninstaller"><a href="#Revo-Uninstaller" class="headerlink" title="Revo_Uninstaller"></a>Revo_Uninstaller</h3><p>下载地址：<a href="https://www.revouninstaller.com/zh/revo-uninstaller-free-download/">下载 Revo Uninstaller 免费版软件 - 免费和完整下载</a></p><h3 id="Geek-Uninstaller"><a href="#Geek-Uninstaller" class="headerlink" title="Geek Uninstaller"></a>Geek Uninstaller</h3><p>下载地址：<a href="https://geekuninstaller.com/download">Geek Uninstaller - Download</a></p><h2 id="视频播放"><a href="#视频播放" class="headerlink" title="视频播放"></a>视频播放</h2><h3 id="PotPlayer"><a href="#PotPlayer" class="headerlink" title="PotPlayer"></a>PotPlayer</h3><p>下载地址：<a href="https://potplayer.tv/">Global Potplayer</a></p><h3 id="VLC"><a href="#VLC" class="headerlink" title="VLC"></a>VLC</h3><p>下载地址：<a href="https://www.videolan.org/">VLC：官方网站 - 全平台的自由多媒体解决方案！ - VideoLAN</a></p><h2 id="PDF-编辑工具"><a href="#PDF-编辑工具" class="headerlink" title="PDF 编辑工具"></a>PDF 编辑工具</h2><h3 id="ilovepdf"><a href="#ilovepdf" class="headerlink" title="ilovepdf"></a>ilovepdf</h3><p>地址：<a href="https://www.ilovepdf.com/zh-cn">iLovePDF | 为 PDF 爱好者提供的 PDF 文件在线处理工具</a><br>tips：在线版免费</p><h3 id="Adobe-Acrobat"><a href="#Adobe-Acrobat" class="headerlink" title="Adobe Acrobat"></a>Adobe Acrobat</h3><h3 id="Stirling-PDF"><a href="#Stirling-PDF" class="headerlink" title="Stirling-PDF"></a>Stirling-PDF</h3><p>地址：<a href="https://github.com/Stirling-Tools/Stirling-PDF">GitHub - Stirling-Tools&#x2F;Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files</a></p><h2 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h2><h3 id="盘搜-VIP"><a href="#盘搜-VIP" class="headerlink" title="盘搜 VIP"></a>盘搜 VIP</h3><p>地址：<a href="https://www.pansou.vip/">盘搜 VIP - 人工亲测精选的网盘搜索工具导航 - pansou.vip</a></p><h3 id="奶酪清单"><a href="#奶酪清单" class="headerlink" title="奶酪清单"></a>奶酪清单</h3><p>地址：<a href="https://www.runningcheese.com/aaa">奶酪清单（2024-12-31） - 奔跑中的奶酪</a></p><h3 id="阿虚同学的储物间"><a href="#阿虚同学的储物间" class="headerlink" title="阿虚同学的储物间"></a>阿虚同学的储物间</h3><p>地址：<a href="https://axutongxue.com/">阿虚同学的储物间</a></p><h3 id="steam-community-302——加速工具"><a href="#steam-community-302——加速工具" class="headerlink" title="steam community_302——加速工具"></a>steam community_302——加速工具</h3><p>地址：<a href="https://www.dogfight360.com/blog/686/">steamcommunity 302 Ver.12.1.46 – Dogfight360</a></p><h3 id="UsbEAm-Hosts-Editor-——多平台修改-host"><a href="#UsbEAm-Hosts-Editor-——多平台修改-host" class="headerlink" title="UsbEAm Hosts Editor ——多平台修改 host"></a>UsbEAm Hosts Editor ——多平台修改 host</h3><p>地址：<a href="https://www.dogfight360.com/blog/18627/#comment-44436">UsbEAm Hosts Editor [多平台 hosts 修改] V4.0 – Dogfight360</a></p><h3 id="Nilesoft——win11-右键优化工具"><a href="#Nilesoft——win11-右键优化工具" class="headerlink" title="Nilesoft——win11 右键优化工具"></a>Nilesoft——win11 右键优化工具</h3><p>地址：<a href="https://nilesoft.org/download">Download - Shell</a></p><h3 id="cursor——无限续杯工具"><a href="#cursor——无限续杯工具" class="headerlink" title="cursor——无限续杯工具"></a>cursor——无限续杯工具</h3><p>地址：<a href="https://github.com/yuaotian/go-cursor-help">yuaotian&#x2F;go-cursor-help: 解决 Cursor 在免费订阅期间出现以下提示的问题: You’ve reached your trial request limit. &#x2F; Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</a></p><h3 id="IDM——激活"><a href="#IDM——激活" class="headerlink" title="IDM——激活"></a>IDM——激活</h3><p>Windowspowershell：irm <a href="https://massgrave.dev/ias">https://massgrave.dev/ias</a> | iex</p><h3 id="office-安装与激活"><a href="#office-安装与激活" class="headerlink" title="office 安装与激活"></a>office 安装与激活</h3><p>安装工具：office tool plus<br>激活工具：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">massgravel&#x2F;Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</a></p><h3 id="Windows-激活"><a href="#Windows-激活" class="headerlink" title="Windows 激活"></a>Windows 激活</h3><p>激活工具：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">massgravel&#x2F;Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</a></p><h3 id="Cursor"><a href="#Cursor" class="headerlink" title="Cursor"></a>Cursor</h3><p>续杯工具：<a href="https://github.com/chengazhen/cursor-auto-free">GitHub - chengazhen&#x2F;cursor-auto-free: auto sign cursor</a></p><h3 id="mind-map"><a href="#mind-map" class="headerlink" title="mind-map"></a>mind-map</h3><p>地址：<a href="https://github.com/wanglin2/mind-map/releases">Releases · wanglin2&#x2F;mind-map</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;工具推荐&quot;&gt;&lt;a href=&quot;#工具推荐&quot; class=&quot;headerlink&quot; title=&quot;工具推荐&quot;&gt;&lt;/a&gt;工具推荐&lt;/h1&gt;&lt;h2 id=&quot;搜索工具&quot;&gt;&lt;a href=&quot;#搜索工具&quot; class=&quot;headerlink&quot; title=&quot;搜索工具&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+    <category term="工具推荐" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
