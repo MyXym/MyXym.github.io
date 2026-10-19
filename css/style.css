@@ -830,4 +830,27 @@ figure .code pre {
   .site-bottom-footer {
     display: block !important;
   }
+}
+
+/* 代码块内部：抵消正文表格样式 */
+figure.highlight table,
+figure.highlight tr,
+figure.highlight td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+figure.highlight table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+figure.highlight .gutter pre {
+  padding-right: 0.7em;
+}
+
+figure.highlight .code pre {
+  padding-left: 0.9em;
 } /*# sourceMappingURL=style.css.map */
