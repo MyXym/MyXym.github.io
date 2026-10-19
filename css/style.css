@@ -853,4 +853,8 @@ figure.highlight .gutter pre {
 
 figure.highlight .code pre {
   padding-left: 0.9em;
+}
+
+figure.highlight {
+  overflow: auto;
 } /*# sourceMappingURL=style.css.map */
